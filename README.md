@@ -1,1 +1,3 @@
 # GameOfLife
+
+Execute index.html
